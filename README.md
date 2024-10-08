@@ -23,7 +23,7 @@ This project is all about exploring and analyzing a recipe dataset. I focused on
 - Summary of key findings that can help improve the business strategy for a recipe website.
 
 ## 🎥 Presentation
-I have also created a presentation to walk you through the key points of this project. You can watch it on YouTube [here]([https://your-link-here.com](https://gamma.app/docs/Exploratory-Data-Analysis-on-Recipe-Dataset-xmz42i3j7bkil98)).
+I have also created a presentation to walk you through the key points of this project. You can see it by [Click Here](https://gamma.app/docs/Exploratory-Data-Analysis-on-Recipe-Dataset-xmz42i3j7bkil98).
 
 ## 📺 YouTube Presentation
 
