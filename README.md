@@ -28,7 +28,7 @@ I have also created a presentation to walk you through the key points of this pr
 ## 📺 YouTube Presentation
 
 You can check out the full presentation of this project on YouTube:  
-[Link to YouTube Video](https://youtu.be/RRwKU0eilVg)
+[Click Here to Watch](https://youtu.be/RRwKU0eilVg)
 
 ## 💡 Conclusion
 This project is a deep dive into the world of recipes, where data cleaning, preprocessing, and analysis helped extract useful insights. These insights can guide businesses on which recipe categories to focus on to attract more users and boost satisfaction.
